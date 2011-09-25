@@ -113,6 +113,7 @@ footer nav {
   float: none;
 }
 
+<<<<<<< HEAD
 /* User show page */
 
 table.profile {
@@ -137,3 +138,8 @@ td.sidebar {
   margin-bottom: -15px;
 }
 
+=======
+div.field, div.actions {
+  margin-bottom: 10px;
+}
+>>>>>>> signing-up
